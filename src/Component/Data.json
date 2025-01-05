@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "Skill": "Html",
+        "image": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"
+    },
+    {
+        "id": 2,
+        "Skill": "Css",
+        "image": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png"
+    },
+    {
+        "id": 3,
+        "Skill": "Tailwind Css",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*_6ooq0R60ba3UT5c-QVemA.png"
+    },
+    {
+        "id": 4,
+        "Skill": "Javascript",
+        "image": "https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg?tx=w_1920,q_auto"
+    },
+    {
+        "id": 5,
+        "Skill": "Vite",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*udvSMrSVGOgD4fxjMJHbOw.jpeg"
+    },
+    {
+        "id": 6,
+        "Skill": "React",
+        "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1603797780927/S6loCK6fY.png"
+    },
+    {
+        "id": 7,
+        "Skill": "Node js",
+        "image": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png"
+    },
+    {
+        "id": 8,
+        "Skill": "Express js",
+        "image": "https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA"
+    },
+    {
+        "id": 9,
+        "Skill": "MongoDB",
+        "image": "https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png"
+    },
+    {
+        "id": 10,
+        "Skill": "Figma",
+        "image": "https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png"
+    },
+    {
+        "id": 11,
+        "Skill": "Git",
+        "image": "https://media.licdn.com/dms/image/C4E12AQE8H4La4xDwPg/article-cover_image-shrink_600_2000/0/1592116201349?e=2147483647&v=beta&t=wCyoeKbScE_7d9bXwS0STpXiBgQhADhA2E4HHhmOHwM"
+    },
+    {
+        "id": 12,
+        "Skill": "GitHub",
+        "image": "https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"
+    },
+    {
+        "id": 13,
+        "Skill": "Linux",
+        "image": "https://blog.vtutor.com/wp-content/uploads/2019/12/Linux.jpg"
+    }
+    ]

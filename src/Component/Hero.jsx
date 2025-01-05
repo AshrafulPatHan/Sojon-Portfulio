@@ -11,7 +11,9 @@ const Hero = () => {
                             <h2 className='text-2xl md:text-5xl font-semibold text-center '>Ashraful Pathan</h2>
                         </div>
                         <div className='bitter-Title'>
-                            <h2 className='text-lg md:text-2xl font-semibold text-center text-green-600 '>junior Frontend Developer</h2>
+                            <h2 className='text-lg md:text-2xl font-semibold text-center text-green-600 '>
+                                junior Frontend Developer
+                            </h2>
                         </div>
                         <p className='text-base md:text-xl font-medium text-center md:text-start text-blue-500 '>
                             I ma junior frontend developer of a react js developer <br />
