@@ -67,28 +67,28 @@ const Navbar = () => {
                                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
                                     <li><Link to='/'>Home</Link></li>
                                     <li>
-                                    <Link to='/addblog'>AddBlog</Link>
+                                    <Link to='/'></Link>
                                     <ul className="p-2">
-                                        <li><Link to='/allblogs'>Allblogs</Link></li>
-                                        <li><Link to='/featuredblogs'>FeaturedBlogs</Link></li>
+                                        <li><Link to='/'></Link></li>
+                                        <li><Link to='/'></Link></li>
                                     </ul>
                                     </li>
-                                    <li><Link to='/wishlist'>Wishlist</Link></li>
+                                    <li><Link to='/'></Link></li>
                                 </ul>
                         ) : (
                             <ul tabIndex={0}
                                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
                                 <li><Link Link to='/'>Home</Link></li>
                                 <li>
-                                <Link to='/allblogs'>Allblogs</Link>
+                                <Link to='/'></Link>
                                 </li>
                             </ul>
                         )}
                         </div>
                         {/* company name */}
                         <div className='flex flex-col sm:flex-row items-center'>
-                            <img src={Logo} alt="image" className='w-[50px] sm:w-[70px] '/>
-                            <p className="text-sm font-bold sm:text-xl hidden md:font-bold">technobloger</p>
+                            <img src={Logo} alt="image" className='w-[40px] sm:w-[45px] '/>
+                            <p className="text-sm font-bold sm:text-xl hidden sm:flex md:font-bold">Ashraful Pathan</p>
                         </div>
                     </div>
                     {/* navigation */}
@@ -99,19 +99,19 @@ const Navbar = () => {
                                     <Link to='/' className=' text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
                                     Home
                                     </Link>
-                                    <Link to='/allblogs' className=' text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
-                                    All blogs
+                                    <Link to='/' className=' text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
+                                    
                                     </Link>
                                 </div>
                                 <div className='flex flex-row gap-2'>
-                                    <Link to='/featuredblogs' className=' text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
-                                    Featured Blogs
+                                    <Link to='/' className=' text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
+                                    
                                     </Link>
-                                    <Link to='/addblog' className='text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
-                                    Add Blog
+                                    <Link to='/' className='text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
+                                    
                                     </Link>
-                                    <Link to='/wishlist' className='text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
-                                    Wishlist
+                                    <Link to='/' className='text-xl p-2 text-green-400 rounded-md hover:bg-green-100 font-bold'>
+                                    
                                     </Link>
                                 </div>
                             </div>
@@ -121,10 +121,10 @@ const Navbar = () => {
                                 <Link to='/' className='text-2xl text-green-400 font-bold'>Home</Link>
                             </li>
                             <li>
-                            <Link to='/allblogs' className='text-2xl text-green-400 font-bold'>All blogs</Link>
+                            <Link to='/' className='text-2xl text-green-400 font-bold'></Link>
                             </li>
                             <li>
-                            <Link to='/featuredblogs' className='text-2xl text-green-400 font-bold'>Featured Blogs</Link>
+                            <Link to='/' className='text-2xl text-green-400 font-bold'></Link>
                             </li>
                         </ul>
                         )}
