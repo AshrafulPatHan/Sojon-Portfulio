@@ -19,5 +19,5 @@ Pathan Spice is an e-commerce website where users can purchase various spices an
 - **Payment Integration:** Stripe
 
 ## Installation
-
+https://github.com/AshrafulPatHan/Sojon-Portfulio.git
 ```sh
